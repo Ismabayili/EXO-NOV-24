@@ -1,0 +1,12 @@
+.ICEauthority
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.config/
+.gitconfig
+.local/
+.mozilla/
+.profile
+.ssh/
+
